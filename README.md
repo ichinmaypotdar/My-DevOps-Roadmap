@@ -109,7 +109,7 @@ Here you will need to know how a network works, how to configure **firewalls**, 
 Resources:
 
 - [OSI Model Explained](https://www.cloudflare.com/en-gb/learning/ddos/glossary/open-systems-interconnection-model-osi/) <sup>FREE</sup>
-- [Computer Networking: A Top-Down Approach](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149) <sup>book</sup>
+- [Computer Networking: A Top-Down Approach](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149) <sup>book</sup> [Video Content](https://www.youtube.com/playlist?list=PLByK_3hwzY3Tysh-SY9MKZhMm9wIfNOas)<sup>video</sup>
 - [TCP/IP and Networking Fundamentals for IT Pros](https://www.pluralsight.com/courses/tcpip-networking-it-pros) <sup>Pluralsight course</sup>
 - [DevSecOps : Master Securing CI/CD | DevOps Pipeline](https://www.udemy.com/course/devsecops/) <sup>Udemy course</sup>
 - [Hands-On Security in DevOps: Ensure continuous security, deployment, and delivery with DevSecOps](https://www.amazon.com/Hands-Security-DevOps-continuous-deployment/dp/1788995503) <sup> Book</sup>
@@ -215,6 +215,7 @@ Some **popular CI/CD tools** are Jenkins, TeamCity, CircleCI, Bamboo, GitLab, an
 
 Resources:
 
+- [Continuous Integration](https://martinfowler.com/articles/continuousIntegration.html) <sup>FREE</sup>
 - [CI/CD Pipeline: A Gentle Introduction](https://semaphoreci.com/blog/cicd-pipeline) <sup>FREE</sup>
 - [Learn GitLab with tutorials](https://docs.gitlab.com/ee/tutorials/) <sup>FREE</sup>
 - [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/) <sup>FREE</sup>
@@ -277,6 +278,8 @@ Resources:
 - [Learn SAFe](https://www.scaledagileframework.com/) <sup>FREE</sup>
 - [Learn Automation Testing](https://blog.testproject.io/2020/03/26/automation-testing-for-beginners-ultimate-guide/) <sup>FREE</sup>
 - [GitLab - Beginner's Guide to DevOps](https://page.gitlab.com/resources-ebook-beginners-guide-devops.html) <sup>FREE</sup>
+- [Common SDLC Models](https://www.scaler.com/blog/software-development-life-cycle/#common-sdlc-models) <sup>FREE</sup>
+
 
 ## Additional resources
 
@@ -324,6 +327,12 @@ Resources:
     This book explains the whole life cycle of Google’s development, deployment, and monitoring, and how to manage the world’s biggest software systems (also known as SRE). Anyone who considers themselves to be more on the "Ops" end of the DevOps side or who wants to know how to strengthen the bonds between various Dev and Ops teams should read SRE.
 
 ![DevOps books](DevOpsBooks.jpg)
+
+## DevOps as a Burger (DaaB)
+
+We can even present this roadmap as a burger :).
+
+![DevOps as a Burger](DevOpsBurger.jpg)
 
 ## Wrap Up
 
